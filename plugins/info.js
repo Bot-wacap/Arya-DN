@@ -16,7 +16,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ║
 ╠═〘 DONASI 〙 ═
 ║
-╠➥ Indosat: 0815-1586-0089
+╠➥ Indosat: 0858-1365-5726
 ║
 ║>Request? Wa.me/6285691842186
 ║
